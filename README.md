@@ -1,7 +1,5 @@
 # Task Manager App
 
-![Task Manager App](https://jl991124-task-manager.netlify.app)
-
 ## About
 
 Welcome to the **Task Manager App** – a web application that allows users to manage tasks. With this app, you can easily add, view, and delete tasks, each with a title, due date, and category. It's built using **React**, **Typescript**, **React Bootstrap**, **Formik**, and **Yup**.
