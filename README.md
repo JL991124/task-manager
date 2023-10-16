@@ -1,19 +1,31 @@
 # Task Manager App
 
-## Table of Contents
+![Task Manager App](https://jl991124-task-manager.netlify.app)
 
-- [Task Manager App](#task-manager-app)
-  - [Table of Contents](#table-of-contents)
-  - [About ](#about-)
-  - [Usage ](#usage-)
+## About
 
-## About <a name = "about"></a>
+Welcome to the **Task Manager App** – a web application that allows users to manage tasks. With this app, you can easily add, view, and delete tasks, each with a title, due date, and category. It's built using **React**, **Typescript**, **React Bootstrap**, **Formik**, and **Yup**.
 
-Welcome to my [Task Manager](https://jl991124-task-manager.netlify.app). This is a web application that allows users to add, view, and delete tasks. Each task will have a title, a due date, and a category. This application is built using **React**, **Typescript**, **React Bootstrap**, **Formik**, and **Yup**.
+For a live demonstration of the app, visit [Task Manager App](https://jl991124-task-manager.netlify.app).
 
-## Usage <a name = "usage"></a>
+## Features
 
+- Add, view, and delete tasks.
+- Categorize tasks for better organization.
+- Set due dates for each task.
+- Built using modern web technologies.
+- An easy and user-friendly interface.
+
+## Installation
+
+To run the app locally, follow these steps:
+
+1. Install project dependencies:
 ```bash
-yarn # install dependencies
+yarn 
+```
+
+2. Start the development server:
+```bash
 yarn run dev # serve local
 ```
